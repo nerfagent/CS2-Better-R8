@@ -26,7 +26,7 @@ def main(holding_time,release_time,button_on,button_off):
 
 
 if __name__ == "__main__":
-    # You may modify these variables if you wanna apply into another game eg apex's charge rifle
+    # You may modify these variables if you wanna use this program in other games. For example, you can use this for Charge Rifle in Apex Legends.
     holding_time = 0.19
     release_time = 0.01
     button_on = 'o'
